@@ -2,7 +2,7 @@
 
 This repository contains the codes for the paper
 
-> [Communication-Efficient Distributed SVD via Local Power Iterations](https://arxiv.org/pdf/2112.14582.pdf)
+> [A Statistical Analysis of Polyak-Ruppert Averaged Q-learning](https://arxiv.org/pdf/2112.14582.pdf)
 
 If you find this code useful in your research, please consider citing:
 
